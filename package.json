@@ -43,7 +43,7 @@
     "husky": ">=1",
     "lint-staged": ">=8",
     "react": "^16.8.3",
-    "react-native": "^0.59.10",
+    "react-native": "^0.62.3",
     "rollup": "^1.27.13",
     "rollup-plugin-babel": "^4.3.3",
     "rollup-plugin-commonjs": "^10.1.0",
